@@ -5,3 +5,4 @@ CREDITS
 .DS_Store
 *.class
 .idea
+out/
